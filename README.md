@@ -10,4 +10,7 @@ This Project I have done in appraches, One by using Jenkins, Docker and Git/GitH
 2. To see the Project by 2nd Approach <a href="https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-3">Click Here</a>.<br>
 
 <b>Minor Project-3</b><br>
-In this Project I have Created an Automated WorkFlow integrating Machine Learning with DevOps tools like, Docker and Jenkins. It will train my model untill the desired accuracy is not achieved in Docker Container having the environment of DeepLearning configured. To see deatils of the Project and demonstration of the project <a href="https://github.com/Abhinav-26/Accuracy-Achiever">Click Here</a>. 
+In this Project I have Created an Automated WorkFlow integrating Machine Learning with DevOps tools like, Docker and Jenkins. It will train my model untill the desired accuracy is not achieved in Docker Container having the environment of DeepLearning configured. To see deatils of the Project and demonstration of the project <a href="https://github.com/Abhinav-26/Accuracy-Achiever">Click Here</a>.<br> 
+
+<b>Minor Project-4</b><br>
+In this Project I have Created a Face Mask Detection System using the Transfer Learning. I have used the inception_v3 model for fine tuning and creating this project. To see the details of the Project and demonstration of it <a href="https://github.com/Abhinav-26/Face-Mask-Detection-System">Click Here</a>.
