@@ -9,4 +9,5 @@ This Project I have done in appraches, One by using Jenkins, Docker and Git/GitH
 1. To See the Project by 1st Approach <a href="https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-2">Click Here</a>.
 2. To see the Project by 2nd Approach <a href="https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-3">Click Here</a>.<br>
 
-
+<b>Minor Project-3</b><br>
+In this Project I have Created an Automated WorkFlow integrating Machine Learning with DevOps tools like, Docker and Jenkins. It will train my model untill the desired accuracy is not achieved in Docker Container having the environment of DeepLearning configured. To see deatils of the Project and demonstration of the project <a href="https://github.com/Abhinav-26/Accuracy-Achiever">Click Here</a>. 
